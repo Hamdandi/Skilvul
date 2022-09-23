@@ -1,0 +1,15 @@
+C:\Users\user\Work\github\Skilvul\bin\Debug\net6.0\Skilvul.exe
+C:\Users\user\Work\github\Skilvul\bin\Debug\net6.0\Skilvul.deps.json
+C:\Users\user\Work\github\Skilvul\bin\Debug\net6.0\Skilvul.runtimeconfig.json
+C:\Users\user\Work\github\Skilvul\bin\Debug\net6.0\Skilvul.dll
+C:\Users\user\Work\github\Skilvul\bin\Debug\net6.0\Skilvul.pdb
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.csproj.AssemblyReference.cache
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.AssemblyInfoInputs.cache
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.AssemblyInfo.cs
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.csproj.CoreCompileInputs.cache
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.dll
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\refint\Skilvul.dll
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.pdb
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\Skilvul.genruntimeconfig.cache
+C:\Users\user\Work\github\Skilvul\obj\Debug\net6.0\ref\Skilvul.dll
