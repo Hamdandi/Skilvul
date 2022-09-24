@@ -56,25 +56,25 @@
             } while (Console.ReadLine().ToUpper() == "Y");
 
         }
-        //Addition  
+        //Penjumlahan
         public static int Addition(int x, int y)
         {
             int result = x + y;
             return result;
         }
-        //Substraction  
+        //pnengurangan  
         public static int Subtraction(int x, int y)
         {
             int result = x - y;
             return result;
         }
-        //Multiplication  
+        //perkalian
         public static int Multiplication(int x, int y)
         {
             int result = x * y;
             return result;
         }
-        //Division  
+        //Pembagian
         public static int Division(int x, int y)
         {
             int result = x / y;
